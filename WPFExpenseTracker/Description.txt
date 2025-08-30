@@ -1,0 +1,22 @@
+Description:
+Expense tracking application.
+
+Features:
+
+Add expenses with description, amount and date
+
+Delete expenses
+
+List is saved in expenses.json
+
+Placeholder logic for TextBox fields
+
+Technologies:
+
+C#
+
+WPF
+
+ObservableCollection
+
+JSON Serialization/Deserialization

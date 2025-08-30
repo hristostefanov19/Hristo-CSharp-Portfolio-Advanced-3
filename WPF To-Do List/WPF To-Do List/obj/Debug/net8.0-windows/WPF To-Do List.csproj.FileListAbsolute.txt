@@ -1,0 +1,19 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\bin\Debug\net8.0-windows\WPF To-Do List.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\bin\Debug\net8.0-windows\WPF To-Do List.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\bin\Debug\net8.0-windows\WPF To-Do List.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\bin\Debug\net8.0-windows\WPF To-Do List.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\bin\Debug\net8.0-windows\WPF To-Do List.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List_MarkupCompile.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.g.resources
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\refint\WPF To-Do List.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\WPF To-Do List.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\WPF To-Do List\WPF To-Do List\obj\Debug\net8.0-windows\ref\WPF To-Do List.dll

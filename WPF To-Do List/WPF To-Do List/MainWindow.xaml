@@ -1,0 +1,43 @@
+﻿<Window x:Class="ToDoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="To-Do List" Height="400" Width="350">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
+            <TextBox x:Name="txtTask"
+                     Width="200"
+                     Height="25"
+                     Text="Enter task..."
+                     GotFocus="txtTask_GotFocus"
+                     LostFocus="txtTask_LostFocus"/>
+            <Button Content="Add"
+                    Width="60"
+                    Margin="5,0,0,0"
+                    Click="BtnAdd_Click"/>
+        </StackPanel>
+
+        <ListBox x:Name="lstTasks"
+                 Grid.Row="1"
+                 DisplayMemberPath="DisplayTitle"
+                 Margin="0,0,0,10"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+            <Button Content="Mark Done"
+                    Width="80"
+                    Margin="5"
+                    Click="BtnMarkDone_Click"/>
+            <Button Content="Delete"
+                    Width="60"
+                    Margin="5"
+                    Click="BtnDelete_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
+

@@ -1,0 +1,26 @@
+Description:
+A mini REST API for managing books. Demonstrates CRUD operations and a RESTful approach.
+
+Features:
+
+GET /api/books – returns all books
+
+GET /api/books/{id} – returns a specific book
+
+POST /api/books – adds a new book
+
+PUT /api/books/{id} – edits a book
+
+DELETE /api/books/{id} – deletes a book
+
+Swagger UI for interactive testing
+
+Technologies:
+
+C#
+
+ASP.NET Core Web API
+
+JSON Serialization
+
+Swagger UI

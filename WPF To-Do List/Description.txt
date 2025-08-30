@@ -1,0 +1,22 @@
+Description:
+A task management application with a graphical interface.
+
+Features:
+
+Add tasks
+
+Mark as “Done”
+
+Delete tasks
+
+The list is dynamically updated
+
+Technologies:
+
+C#
+
+WPF (Windows Presentation Foundation)
+
+ObservableCollection
+
+Event Handling
